@@ -27,4 +27,4 @@ I did not help a classmate this week.
 
 ## Screenshot of my editor
 
-![Image of my editor](atomscreenshot.png)
+![Image of my editor](atomscreenshot.JPG)
