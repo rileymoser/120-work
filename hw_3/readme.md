@@ -1,6 +1,6 @@
 Riley Moser, 50
 
-["Hello World!"](https://rileymoser.github.io/120-work/hw-3/)
+["Hello World!"](https://rileymoser.github.io/120-work/hw_3/)
 
 # This Week's Work at a Glance
 
