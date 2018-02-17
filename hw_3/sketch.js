@@ -13,5 +13,5 @@ background(255, 215, 0);
 function draw(){
 
 // I am now using the text function so that my html page will say "Hello World"
-text('Welcome to Rileys Page', 100, 100);
+text('Hello World!', 100, 100);
 }
