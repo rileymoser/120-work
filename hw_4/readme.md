@@ -1,6 +1,6 @@
 Riley Moser, 50
 
-["My Sketch"](file:///C:/Github/120-work/hw_4/index.html)
+[My Sketch](file:///C:/Github/120-work/hw_4/index.html)
 
 #Week 4:Creating a Drawing Using p5.js
 
